@@ -84,8 +84,3 @@ function layout(blocks) {
         };
     });
 }
-
-console.log(layout(blocks1));
-console.log(layout(blocks2));
-console.log(layout(blocks3));
-console.log(layout(blocks4));
